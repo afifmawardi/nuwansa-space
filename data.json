@@ -1,0 +1,73 @@
+{
+  "Nuwansa Kopi": [
+    {
+      "nama": "Nuwansa Cappuccino",
+      "foto": "https://cdn.pixabay.com/photo/2018/10/06/11/22/coffee-3727673_1280.jpg",
+      "harga": "25.000",
+      "size": "250 Ml",
+      "link": "https://gofood.co.id/"
+    },
+    {
+      "nama": "Nuwansa Arabica",
+      "foto": "https://cdn.pixabay.com/photo/2015/06/13/09/10/singapore-807834_1280.jpg",
+      "harga": "25.000",
+      "size": "250 Ml",
+      "link": "https://gofood.co.id/"
+    }
+  ],
+  "Nuwansa Non-Kopi": [
+    {
+      "nama": "Nuwansa Teh",
+      "foto": "https://cdn.pixabay.com/photo/2021/10/04/11/51/tea-6680090_1280.jpg",
+      "harga": "15.000",
+      "size": "250 Ml",
+      "link": "https://gofood.co.id/"
+    },
+    {
+      "nama": "Nuwansa Cokelat",
+      "foto": "https://cdn.pixabay.com/photo/2024/01/31/17/54/cocoa-8544492_1280.png",
+      "harga": "15.000",
+      "size": "250 Ml",
+      "link": "https://gofood.co.id/"
+    }
+  ],
+  "Nuwansa Makanan": [
+    {
+      "nama": "Nasi Goreng",
+      "foto": "https://cdn.pixabay.com/photo/2015/05/04/08/27/common-ground-752015_1280.jpg",
+      "harga": "20.000",
+      "size": "1 Porsi",
+      "link": "https://gofood.co.id/"
+    },
+    {
+      "nama": "Nasi Kuning",
+      "foto": "https://img.freepik.com/free-photo/curry-fried-rice_1339-1809.jpg?w=1800",
+      "harga": "20.000",
+      "size": "1 Porsi",
+      "link": "https://gofood.co.id/"
+    }
+  ],
+  "Nuwansa Cemilan": [
+    {
+      "nama": "Kentang Goreng",
+      "foto": "https://img.freepik.com/free-photo/yummy-french-fries-wooden-table_23-2148374899.jpg?w=826",
+      "harga": "10.000",
+      "size": "1 Porsi",
+      "link": "https://gofood.co.id/"
+    },
+    {
+      "nama": "Tahu Goreng",
+      "foto": "https://img.freepik.com/free-photo/deep-fried-fhicken-roll-dark-surface_1150-43590.jpg?w=826",
+      "harga": "10.000",
+      "size": "1 Porsi",
+      "link": "https://gofood.co.id/"
+    },
+    {
+      "nama": "Waffle Gembira",
+      "foto": "https://img.freepik.com/free-photo/waffles-topped-with-mixed-sliced-fruits_140725-4334.jpg?w=996",
+      "harga": "10.000",
+      "size": "1 Porsi",
+      "link": "https://gofood.co.id/"
+    }
+  ]
+}
